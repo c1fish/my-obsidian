@@ -205,6 +205,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c7423dd18d6b658",
-  "lastOpenFiles": []
+  "active": "c87e000b3923e157",
+  "lastOpenFiles": [
+    ".obsidian/plugins/Show Hidden Files/manifest.json",
+    ".obsidian/plugins/Show Hidden Files/styles.css",
+    ".obsidian/plugins/Show Hidden Files/main.js",
+    ".obsidian/plugins/obsidian-git/styles.css",
+    ".obsidian/plugins/obsidian-git/manifest.json",
+    ".obsidian/plugins/obsidian-git/main.js",
+    ".obsidian/plugins/obsidian-git/data.json",
+    ".obsidian/plugins/obsidian-git/obsidian_askpass.sh",
+    ".obsidian/plugins/obsidian-custom-attachment-location/manifest.json",
+    ".obsidian/plugins/obsidian-custom-attachment-location/styles.css",
+    ".obsidian/plugins/obsidian-custom-attachment-location/main.js",
+    "README.md"
+  ]
 }
