@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-22.md",
+                "file": ".claude/skills/claude-to-im/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-22"
+              "title": "SKILL"
             }
           }
         ]
@@ -216,8 +216,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8c7423dd18d6b658",
+  "active": "c87e000b3923e157",
   "lastOpenFiles": [
+    ".claude/skills/claude-to-im/references/setup-guides.md",
+    "2026-04-22.md",
     ".claude/skills/claude-to-im/src/adapters/weixin/weixin-types.ts",
     ".claude/skills/claude-to-im/src/adapters/weixin/weixin-session-guard.ts",
     ".claude/skills/claude-to-im/src/adapters/weixin/weixin-ids.ts",
@@ -228,10 +230,8 @@
     ".claude/skills/claude-to-im/src/__tests__/weixin-login.test.ts",
     ".claude/skills/claude-to-im/src/__tests__/weixin-api.test.ts",
     ".claude/skills/claude-to-im/src/__tests__/weixin-adapter.test.ts",
-    ".claude/skills/claude-to-im/src/__tests__/store.test.ts",
     ".claude/skills/claude-to-im/references/troubleshooting.md",
     ".claude/skills/claude-to-im/references/usage.md",
-    ".claude/skills/claude-to-im/references/setup-guides.md",
     ".claude/skills/claude-to-im/references/token-validation.md",
     ".claude/skills/claude-to-im/SECURITY.md",
     ".claude/skills/claude-to-im/SKILL.md",
@@ -247,7 +247,6 @@
     ".claude/skills/~/.claude/skills/claude-to-im/README_CN.md",
     ".claude/skills/~/.claude/skills/claude-to-im/README.md",
     ".claude/skills/~/.claude/skills/claude-to-im/CLAUDE.md",
-    "README.md",
-    "2026-04-22.md"
+    "README.md"
   ]
 }
