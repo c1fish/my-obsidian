@@ -4,20 +4,20 @@
   "title": "Set up WeChat bridge",
   "titleGenerationStatus": "success",
   "createdAt": 1776846863800,
-  "updatedAt": 1776847606410,
-  "lastResponseAt": 1776847606410,
+  "updatedAt": 1776847687637,
+  "lastResponseAt": 1776847687637,
   "sessionId": "2640cb55-430b-43a8-9af0-a44e7d6f2b65",
   "providerState": {
     "providerSessionId": "2640cb55-430b-43a8-9af0-a44e7d6f2b65"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 4793,
+    "inputTokens": 1386,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 68992,
+    "cacheReadInputTokens": 75264,
     "contextWindow": 200000,
-    "contextTokens": 73785,
-    "percentage": 37,
+    "contextTokens": 76650,
+    "percentage": 38,
     "contextWindowIsAuthoritative": true
   }
 }
