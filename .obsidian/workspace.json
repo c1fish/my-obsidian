@@ -212,8 +212,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8c7423dd18d6b658",
+  "active": "c87e000b3923e157",
   "lastOpenFiles": [
+    ".claude/skills/claude-to-im/SKILL.md",
     ".claude/skills/Claude-to-IM/node_modules/zod-to-json-schema/.github/FUNDING.yml",
     ".claude/skills/Claude-to-IM/node_modules/zod-to-json-schema/.github/CR_logotype-full-color.png",
     ".claude/skills/Claude-to-IM/node_modules/zod-to-json-schema/.github",
@@ -225,7 +226,6 @@
     ".claude/skills/Claude-to-IM/node_modules/zod/v4-mini",
     ".claude/skills/Claude-to-IM/node_modules/zod/src/v4-mini/index.ts",
     ".claude/skills/Claude-to-IM/node_modules/zod/src/v4-mini",
-    ".claude/skills/Claude-to-IM/node_modules/zod/src/locales/index.ts",
     ".claude/skills/Claude-to-IM/node_modules/function-bind/.github/SECURITY.md",
     ".claude/skills/Claude-to-IM/node_modules/@anthropic-ai/sdk/.github/logo.svg",
     ".claude/skills/Claude-to-IM/node_modules/wrappy/README.md",
