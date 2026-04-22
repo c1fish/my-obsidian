@@ -4,6 +4,19 @@
   "title": "Add Claude-to-IM skill via npx",
   "titleGenerationStatus": "success",
   "createdAt": 1776848614250,
-  "updatedAt": 1776848617977,
-  "sessionId": null
+  "updatedAt": 1776848632948,
+  "lastResponseAt": 1776848632948,
+  "sessionId": "30710bd6-a10e-46b3-9046-a693194a6790",
+  "providerState": {
+    "providerSessionId": "30710bd6-a10e-46b3-9046-a693194a6790"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 19138,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 19138,
+    "percentage": 10
+  }
 }

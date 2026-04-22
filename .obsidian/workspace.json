@@ -172,16 +172,6 @@
             }
           },
           {
-            "id": "8c7423dd18d6b658",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
             "id": "884391137aaaf1b0",
             "type": "leaf",
             "state": {
@@ -190,9 +180,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "960a2188142fbc15",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -212,7 +212,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8c7423dd18d6b658",
+  "active": "960a2188142fbc15",
   "lastOpenFiles": [
     ".claudian/sessions/conv-1776848614250-mpart1evl.meta.json",
     ".claude/skills/Claude-to-IM/node_modules/zod/src/v4/core/tests/locales/tr.test.ts",
