@@ -4,20 +4,20 @@
   "title": "Set up Claude-to-IM",
   "titleGenerationStatus": "success",
   "createdAt": 1776838281151,
-  "updatedAt": 1776844475250,
-  "lastResponseAt": 1776844475250,
+  "updatedAt": 1776845623754,
+  "lastResponseAt": 1776845623754,
   "sessionId": "765b9822-e1cf-4771-83c0-04af8617723d",
   "providerState": {
     "providerSessionId": "765b9822-e1cf-4771-83c0-04af8617723d"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 1129,
+    "inputTokens": 379,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 101120,
+    "cacheReadInputTokens": 103296,
     "contextWindow": 200000,
-    "contextTokens": 102249,
-    "percentage": 51,
+    "contextTokens": 103675,
+    "percentage": 52,
     "contextWindowIsAuthoritative": true
   }
 }
