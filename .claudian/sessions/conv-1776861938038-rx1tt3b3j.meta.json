@@ -2,9 +2,9 @@
   "id": "conv-1776861938038-rx1tt3b3j",
   "providerId": "claude",
   "title": "桥接QQ",
-  "titleGenerationStatus": "pending",
+  "titleGenerationStatus": "failed",
   "createdAt": 1776861938039,
-  "updatedAt": 1776862035404,
+  "updatedAt": 1776862117796,
   "lastResponseAt": 1776862035404,
   "sessionId": "454d7933-04c0-490b-b013-516bccad9d69",
   "providerState": {
