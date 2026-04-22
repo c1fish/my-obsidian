@@ -217,8 +217,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2962952ff8ec238a",
+  "active": "960a2188142fbc15",
   "lastOpenFiles": [
+    ".claudian/sessions/conv-1776877287561-mvgspefm4.meta.json",
     ".claude/.agents/skills/technology/claude-to-im-bridge/SKILL.md",
     ".claude/.agents/skills/project-file-organizer.md",
     ".claude/.agents/skills/technology/claude-to-im-bridge/README.md",
@@ -253,7 +254,6 @@
     ".claude/.agents/skills/huashu-nuwa/examples/feynman-perspective/references/费曼表达风格调研.md",
     ".claude/.agents/skills/huashu-nuwa/examples/feynman-perspective/references/费曼著作与系统思考调研-20260404.md",
     ".claude/.agents/skills/huashu-nuwa/examples/feynman-perspective/references/research.md",
-    ".claude/.agents/skills/huashu-nuwa/examples/paul-graham-perspective/references/research/02-conversations.md",
     ".claude/.agents/skills/huashu-nuwa/scripts/quality_check.py",
     ".claude/.agents/skills/huashu-nuwa/assets/hero.gif",
     ".claude/.agents/skills/huashu-nuwa/scripts/srt_to_transcript.py",

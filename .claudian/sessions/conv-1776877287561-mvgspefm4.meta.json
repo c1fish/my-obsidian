@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776877287561-mvgspefm4",
+  "providerId": "claude",
+  "title": "启动微信桥接",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776877287561,
+  "updatedAt": 1776877550775,
+  "lastResponseAt": 1776877550775,
+  "sessionId": "7740bad4-4241-46d2-85c7-7b2ce5f85cd2",
+  "providerState": {
+    "providerSessionId": "7740bad4-4241-46d2-85c7-7b2ce5f85cd2"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 9547,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 9547,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
+  }
+}
