@@ -11,10 +11,14 @@
             "id": "c87e000b3923e157",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-04-22.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-04-22"
             }
           }
         ]
@@ -196,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1230.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +216,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "960a2188142fbc15",
+  "active": "2962952ff8ec238a",
   "lastOpenFiles": [
+    "README.md",
+    "2026-04-22.md",
     ".claudian/sessions/conv-1776850022715-p26wjwtbq.meta.json",
     ".claude/skills-lock.json",
     ".claude/.agents/skills/claude-to-im/scripts/supervisor-linux.sh",
@@ -229,7 +235,6 @@
     ".claude/.agents/skills/claude-to-im/tsconfig.json",
     ".claude/.agents/skills/claude-to-im/SKILL.md",
     ".claude/.agents/skills/claude-to-im/src/adapters/weixin/weixin-types.ts",
-    ".claude/.agents/skills/claude-to-im/src/adapters/weixin/weixin-session-guard.ts",
     ".claude/.agents/skills/claude-to-im/SECURITY.md",
     ".claude/.agents/skills/claude-to-im/README_CN.md",
     ".claude/.agents/skills/claude-to-im/README.md",
@@ -249,7 +254,6 @@
     ".claude/skills/Claude-to-IM/node_modules/undici/docs/docs/api/Util.md",
     ".claude/skills/Claude-to-IM/node_modules/undici/docs/docs/api/RetryAgent.md",
     ".claude/skills/Claude-to-IM/node_modules/undici/docs/docs/best-practices/client-certificate.md",
-    ".claude/skills/Claude-to-IM/node_modules/undici/docs/docs/api/WebSocket.md",
     ".claude/skills/claude-to-im/node_modules/pngjs/coverage/lcov-report/sort-arrow-sprite.png",
     ".claude/skills/claude-to-im/node_modules/pngjs/coverage/lcov-report/favicon.png",
     ".claude/skills/claude-to-im/node_modules/zod-to-json-schema/.github/CR_logotype-full-color.png",
