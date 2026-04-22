@@ -1,6 +1,9 @@
 [
   "obsidian-git",
   "claudian",
+  "show-hidden-files",
   "obsidian-custom-attachment-location",
-  "show-hidden-files"
+  "calendar",
+  "dataview",
+  "obsidian-excalidraw-plugin"
 ]
