@@ -212,8 +212,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2962952ff8ec238a",
+  "active": "960a2188142fbc15",
   "lastOpenFiles": [
+    ".claude/skills/Claude-to-IM/scripts/daemon.ps1",
+    ".claude/skills/Claude-to-IM/scripts/build.js",
+    ".claude/skills/Claude-to-IM/scripts",
     ".claude/skills/skills-lock.json",
     ".claude/skills/.agents/skills/claude-to-im/src/main.ts",
     ".claude/skills/.agents/skills/claude-to-im/src/qrcode.d.ts",
@@ -222,9 +225,6 @@
     ".claude/skills/.agents/skills/claude-to-im/src/llm-provider.ts",
     ".claude/skills/.agents/skills/claude-to-im/src/codex-provider.ts",
     ".claude/skills/.agents/skills/claude-to-im/src/config.ts",
-    ".claude/skills/.agents/skills/claude-to-im/scripts/supervisor-windows.ps1",
-    ".claude/skills/.agents/skills/claude-to-im/scripts/doctor.sh",
-    ".claude/skills/.agents/skills/claude-to-im/scripts/supervisor-macos.sh",
     ".claude/skills/.agents/skills/claude-to-im/references/token-validation.md",
     ".claude/skills/.agents/skills/claude-to-im/references/troubleshooting.md",
     ".claude/skills/.agents/skills/claude-to-im/references/setup-guides.md",
