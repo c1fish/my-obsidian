@@ -214,6 +214,7 @@
   },
   "active": "8c7423dd18d6b658",
   "lastOpenFiles": [
+    ".claudian/sessions/conv-1776846863799-i2y1kqn9k.meta.json",
     ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/security/validators.ts",
     ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/markdown/telegram.ts",
     ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/markdown/render.ts",
@@ -224,7 +225,6 @@
     ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/examples/mock-host.ts",
     ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/adapters/telegram-adapter.ts",
     ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/adapters/telegram-utils.ts",
-    ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/markdown/discord.ts",
     ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/SECURITY.md",
     ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/README.md",
     ".claude/skills/claude-to-im/node_modules/claude-to-im/src/lib/bridge/MIGRATION.md",
