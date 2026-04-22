@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": ".claude/.agents/skills/technology/claude-to-im-bridge/SKILL.md",
+                "file": ".claude/.agents/skills/project-file-organizer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "project-file-organizer"
             }
           }
         ]
@@ -219,10 +219,11 @@
   },
   "active": "2962952ff8ec238a",
   "lastOpenFiles": [
+    ".claude/.agents/skills/technology/claude-to-im-bridge/SKILL.md",
+    ".claude/.agents/skills/project-file-organizer.md",
     ".claude/.agents/skills/technology/claude-to-im-bridge/README.md",
     ".claude/.agents/skills/x-mastery-mentor/examples/routing-infographic.png",
     ".claude/.agents/skills/x-mastery-mentor/examples/routing-infographic.html",
-    ".claude/.agents/skills/technology/claude-to-im-bridge/SKILL.md",
     ".claude/.agents/skills/philosophy/yangming-practice/SKILL.md",
     ".claude/.agents/skills/philosophy/yangming-practice/README.md",
     ".claude/.agents/skills/paul-graham-perspective/SKILL.md",
