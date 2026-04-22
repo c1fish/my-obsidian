@@ -4,20 +4,20 @@
   "title": "桥接QQ",
   "titleGenerationStatus": "failed",
   "createdAt": 1776861938039,
-  "updatedAt": 1776865264573,
-  "lastResponseAt": 1776865264573,
+  "updatedAt": 1776865355579,
+  "lastResponseAt": 1776865355579,
   "sessionId": "454d7933-04c0-490b-b013-516bccad9d69",
   "providerState": {
     "providerSessionId": "454d7933-04c0-490b-b013-516bccad9d69"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 74654,
+    "inputTokens": 76107,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextTokens": 74654,
-    "percentage": 37,
+    "contextTokens": 76107,
+    "percentage": 38,
     "contextWindowIsAuthoritative": true
   }
 }
