@@ -351,7 +351,7 @@ This checks: Node.js version, config file existence and permissions, token valid
 | `Permission timeout` | User didn't respond within 5 min. Tool call auto-denied. |
 | `Stale PID file` | Run `stop` then `start`. daemon.sh auto-cleans stale PIDs. |
 
-See [references/troubleshooting.md](references/troubleshooting.md) for more details.
+See [references/troubleshooting.md](troubleshooting.md) for more details.
 
 ## Security
 

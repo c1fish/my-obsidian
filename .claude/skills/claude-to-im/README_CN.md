@@ -351,7 +351,7 @@ start bridge
 | `权限超时` | 用户 5 分钟内未响应，工具调用自动拒绝 |
 | `PID 文件残留` | 运行 `stop` 再 `start`，脚本会自动清理 |
 
-详见 [references/troubleshooting.md](references/troubleshooting.md)。
+详见 [references/troubleshooting.md](troubleshooting.md)。
 
 ## 安全
 
