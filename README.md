@@ -1,0 +1,2 @@
+# my-obsidian
+personal only
