@@ -4,6 +4,20 @@
   "title": "Connect WeChat integration",
   "titleGenerationStatus": "success",
   "createdAt": 1776850022715,
-  "updatedAt": 1776850026550,
-  "sessionId": null
+  "updatedAt": 1776850292116,
+  "lastResponseAt": 1776850292116,
+  "sessionId": "7275ea41-ddc9-4475-89e0-8a458c3c791c",
+  "providerState": {
+    "providerSessionId": "7275ea41-ddc9-4475-89e0-8a458c3c791c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 974,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 54912,
+    "contextWindow": 200000,
+    "contextTokens": 55886,
+    "percentage": 28,
+    "contextWindowIsAuthoritative": true
+  }
 }
