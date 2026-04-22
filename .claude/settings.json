@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Edit(/.claude/skills/claude-to-im/**)"
+      "Edit(/.claude/skills/claude-to-im/**)",
+      "Edit(~/.claude/skills/claude-to-im/**)"
     ]
   }
 }
