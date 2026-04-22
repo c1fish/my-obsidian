@@ -4,7 +4,7 @@
   "title": "桥接QQ",
   "titleGenerationStatus": "failed",
   "createdAt": 1776861938039,
-  "updatedAt": 1776864377517,
+  "updatedAt": 1776864448608,
   "lastResponseAt": 1776864377517,
   "sessionId": "454d7933-04c0-490b-b013-516bccad9d69",
   "providerState": {
@@ -18,5 +18,6 @@
     "contextWindow": 200000,
     "contextTokens": 0,
     "percentage": 0
-  }
+  },
+  "resumeAtMessageId": "8f387ea5-0a2c-4903-af3b-4ce76117c98a"
 }
