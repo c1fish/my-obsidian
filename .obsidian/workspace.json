@@ -174,13 +174,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8c7423dd18d6b658",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,6 +205,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c87e000b3923e157",
+  "active": "8c7423dd18d6b658",
   "lastOpenFiles": []
 }
