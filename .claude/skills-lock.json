@@ -5,6 +5,21 @@
       "source": "op7418/Claude-to-IM-skill",
       "sourceType": "github",
       "computedHash": "6a9d00957b90681ea4ca971a3831c4cd41d9e7c746fd4ac92dba130bcdc6862b"
+    },
+    "huashu-nuwa": {
+      "source": "alchaincyf/nuwa-skill",
+      "sourceType": "github",
+      "computedHash": "32ef0ae52888f45c856b163af9d40f8e70bc9ccd83700842542a8899ee3bc74b"
+    },
+    "paul-graham-perspective": {
+      "source": "alchaincyf/paul-graham-skill",
+      "sourceType": "github",
+      "computedHash": "50b164f792190e4750ce2dcebb0dbe7207d2fa7ae82141a4358dfdc2247b961d"
+    },
+    "x-mastery-mentor": {
+      "source": "alchaincyf/x-mentor-skill",
+      "sourceType": "github",
+      "computedHash": "ddd8dac485001c10be0e6a53d5a72491542e4f92c6a9ab68f861ce27f08d00c8"
     }
   }
 }

@@ -3,7 +3,25 @@
     "allow": [
       "Edit(/.claude/skills/claude-to-im/**)",
       "Edit(~/.claude/skills/claude-to-im/**)",
-      "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\skills\\\\claude-to-im-bridge-notes.md)"
-    ]
+      "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\skills\\\\claude-to-im-bridge-notes.md)",
+      "Edit(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\settings.json)",
+      "Bash(mv **/*.*)",
+      "Bash(rm **/*.*)",
+      "Bash(skills/**/*)",
+      "Bash([^.]*)",
+      "Edit(.obsidian/**)",
+      "Write(.obsidian/**)",
+      "Bash(**)",
+      "Bash(rm -r *)",
+      "Bash(rm -rf *)",
+      "Bash(**/*)",
+      "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\SKILLS.md)",
+      "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\philosophy\\\\yangming-practice\\\\SKILL.md)",
+      "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\philosophy\\\\yangming-practice\\\\README.md)",
+      "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\technology\\\\claude-to-im-bridge\\\\README.md)",
+      "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\technology\\\\claude-to-im-bridge\\\\SKILL.md)",
+      "Edit(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\SKILLS.md)"
+    ],
+    "defaultMode": "auto"
   }
 }

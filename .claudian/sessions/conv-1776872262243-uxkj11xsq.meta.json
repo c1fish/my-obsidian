@@ -1,0 +1,22 @@
+{
+  "id": "conv-1776872262243-uxkj11xsq",
+  "providerId": "claude",
+  "title": "我想蒸馏王阳明的思想，整合成一份skill",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1776872262243,
+  "updatedAt": 1776875494980,
+  "lastResponseAt": 1776875494980,
+  "sessionId": "0a46709e-1108-4351-b295-60912bff028d",
+  "providerState": {
+    "providerSessionId": "0a46709e-1108-4351-b295-60912bff028d"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
