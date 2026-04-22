@@ -214,6 +214,7 @@
   },
   "active": "8c7423dd18d6b658",
   "lastOpenFiles": [
+    ".claudian/sessions/conv-1776848614250-mpart1evl.meta.json",
     ".claude/skills/Claude-to-IM/node_modules/zod/src/v4/core/tests/locales/tr.test.ts",
     ".claude/skills/Claude-to-IM/node_modules/zod/src/v4/core/tests/locales/uz.test.ts",
     ".claude/skills/Claude-to-IM/node_modules/zod/src/v4/core/tests/locales/he.test.ts",
@@ -224,7 +225,6 @@
     ".claude/skills/Claude-to-IM/node_modules/zod/src/v4/core/tests/locales/be.test.ts",
     ".claude/skills/Claude-to-IM/node_modules/discord-api-types/payloads/v8/_interactions/_applicationCommands/_chatInput/user.js.map",
     ".claude/skills/Claude-to-IM/node_modules/discord-api-types/payloads/v8/_interactions/_applicationCommands/_chatInput/user.js",
-    ".claude/skills/Claude-to-IM/node_modules/discord-api-types/payloads/v8/_interactions/_applicationCommands/_chatInput/user.d.ts",
     ".claude/skills/Claude-to-IM/node_modules/@discordjs/rest/node_modules/@discordjs/collection/README.md",
     ".claude/skills/Claude-to-IM/node_modules/@discordjs/ws/node_modules/@discordjs/collection/README.md",
     ".claude/skills/Claude-to-IM/node_modules/undici/docs/docs/best-practices/mocking-request.md",
