@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Edit(/.claude/skills/claude-to-im/**)",
-      "Edit(~/.claude/skills/claude-to-im/**)"
+      "Edit(~/.claude/skills/claude-to-im/**)",
+      "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\skills\\\\claude-to-im-bridge-notes.md)"
     ]
   }
 }

@@ -5,5 +5,7 @@
   "obsidian-custom-attachment-location",
   "calendar",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-importer",
+  "obsidian-html-plugin"
 ]
