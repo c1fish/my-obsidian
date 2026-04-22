@@ -216,8 +216,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2962952ff8ec238a",
+  "active": "960a2188142fbc15",
   "lastOpenFiles": [
+    ".claudian/sessions/conv-1776861938038-rx1tt3b3j.meta.json",
     "README.md",
     "2026-04-22.md",
     ".claudian/sessions/conv-1776850022715-p26wjwtbq.meta.json",
@@ -253,7 +254,6 @@
     ".claude/skills/Claude-to-IM/node_modules/undici/docs/docs/best-practices/proxy.md",
     ".claude/skills/Claude-to-IM/node_modules/undici/docs/docs/api/Util.md",
     ".claude/skills/Claude-to-IM/node_modules/undici/docs/docs/api/RetryAgent.md",
-    ".claude/skills/Claude-to-IM/node_modules/undici/docs/docs/best-practices/client-certificate.md",
     ".claude/skills/claude-to-im/node_modules/pngjs/coverage/lcov-report/sort-arrow-sprite.png",
     ".claude/skills/claude-to-im/node_modules/pngjs/coverage/lcov-report/favicon.png",
     ".claude/skills/claude-to-im/node_modules/zod-to-json-schema/.github/CR_logotype-full-color.png",
