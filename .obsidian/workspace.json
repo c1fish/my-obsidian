@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人/绘画事记/学习时间线.md",
+                "file": "个人/关于我/2023年至今Notion飞书浮墨/驻足 17dbd0438f8680268be9c1afa8fb7a60.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学习时间线"
+              "title": "驻足 17dbd0438f8680268be9c1afa8fb7a60"
             }
           }
         ]
@@ -217,10 +217,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c79edc101db34455",
+  "active": "960a2188142fbc15",
   "lastOpenFiles": [
-    "学业/未命名.md",
+    ".claudian/sessions/conv-1777041169695-ft0euvlw7.meta.json",
     "个人/绘画事记/学习时间线.md",
+    "学业/未命名.md",
     "个人/绘画事记",
     ".claudian/sessions/conv-1777038390441-r8i4lntv6.meta.json",
     ".obsidian/plugins/Show Hidden Files.zip",
@@ -256,7 +257,6 @@
     ".claude/.agents/skills/huashu-nuwa/examples/zhang-yiming-perspective/references/research/02-conversations.md",
     ".claude/.agents/skills/huashu-nuwa/examples/zhang-yiming-perspective/references/research/03-expression-dna.md",
     ".claude/.agents/skills/huashu-nuwa/examples/zhang-yiming-perspective/references/research/04-external-views.md",
-    ".claude/.agents/skills/huashu-nuwa/examples/feynman-perspective/references/费曼表达风格调研.md",
     ".claude/.agents/skills/huashu-nuwa/assets/hero.gif",
     ".claude/.agents/skills/huashu-nuwa/assets/banner.svg",
     ".claude/.agents/skills/huashu-nuwa/advisory-board.png",
