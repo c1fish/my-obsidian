@@ -1,0 +1,22 @@
+{
+  "id": "conv-1777019927392-wi7g44z73",
+  "providerId": "claude",
+  "title": "接入QQ",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777019927392,
+  "updatedAt": 1777020429166,
+  "lastResponseAt": 1777020429166,
+  "sessionId": "5e9acf54-f6d8-427d-8400-2e524fa15d80",
+  "providerState": {
+    "providerSessionId": "5e9acf54-f6d8-427d-8400-2e524fa15d80"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 11681,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 11681,
+    "percentage": 6
+  }
+}
