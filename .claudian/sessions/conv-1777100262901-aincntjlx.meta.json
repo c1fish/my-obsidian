@@ -4,6 +4,20 @@
   "title": "把我对于绘画相关的认识整理到学习时间线",
   "titleGenerationStatus": "failed",
   "createdAt": 1777100262902,
-  "updatedAt": 1777100443803,
-  "sessionId": null
+  "updatedAt": 1777101672143,
+  "lastResponseAt": 1777101672143,
+  "sessionId": "18896e2f-265a-44e4-9a68-6f385d40a22a",
+  "providerState": {
+    "providerSessionId": "18896e2f-265a-44e4-9a68-6f385d40a22a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
 }
