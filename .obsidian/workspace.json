@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": ".claude/.agents/skills/zhanlincui-pptx/SKILL.md",
+                "file": ".claude/.agents/skills/huashu-nuwa/examples/andrej-karpathy-perspective/SKILL.md",
                 "mode": "source",
                 "source": false
               },
@@ -219,8 +219,9 @@
   },
   "active": "c79edc101db34455",
   "lastOpenFiles": [
-    ".claude/.agents/skills/zhanlincui-xlsx/SKILL.md",
     ".claude/.agents/skills/main/skill to know me.md",
+    ".claude/.agents/skills/zhanlincui-pptx/SKILL.md",
+    ".claude/.agents/skills/zhanlincui-xlsx/SKILL.md",
     ".claude/.agents/skills/huashu-nuwa/SKILL.md",
     ".claude/.agents/skills/huashu-nuwa/README.md",
     "个人/绘画事记/学习时间线.md",
@@ -241,7 +242,6 @@
     ".claudian/sessions/conv-1777019927392-wi7g44z73.meta.json",
     "2026-04-22.md",
     "README.md",
-    ".claude/.agents/skills/zhanlincui-pptx/SKILL.md",
     ".claudian/sessions/conv-1776877287561-mvgspefm4.meta.json",
     ".claude/.agents/skills/technology/claude-to-im-bridge/SKILL.md",
     ".claude/.agents/skills/technology/claude-to-im-bridge/README.md",
