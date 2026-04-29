@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777477494927-r5f4194pc",
+  "providerId": "claude",
+  "title": "做一份杂志风 PPT",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777477494927,
+  "updatedAt": 1777477506693,
+  "lastResponseAt": 1777477506693,
+  "sessionId": "9d44b6d4-a0bc-4a95-b92e-183cd970d656",
+  "providerState": {
+    "providerSessionId": "9d44b6d4-a0bc-4a95-b92e-183cd970d656"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
