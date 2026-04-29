@@ -20,7 +20,10 @@
       "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\philosophy\\\\yangming-practice\\\\README.md)",
       "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\technology\\\\claude-to-im-bridge\\\\README.md)",
       "Write(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\technology\\\\claude-to-im-bridge\\\\SKILL.md)",
-      "Edit(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\SKILLS.md)"
+      "Edit(D:\\\\Fish\\\\桌面\\\\Note\\\\my-obsidian\\\\.claude\\\\.agents\\\\skills\\\\SKILLS.md)",
+      "Bash(mkdir -p ~/.claude/skills)",
+      "Bash(mkdir -p \"$HOME/.claude/skills\")",
+      "Edit(C:\\\\Users\\\\Fish\\\\.claude\\\\settings.json)"
     ],
     "defaultMode": "auto"
   }
