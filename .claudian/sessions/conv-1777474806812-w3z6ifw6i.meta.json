@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777474806812-w3z6ifw6i",
+  "providerId": "claude",
+  "title": "你是什么模型",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777474806812,
+  "updatedAt": 1777474985417,
+  "lastResponseAt": 1777474923883,
+  "sessionId": "e04d0d26-39d8-441b-ac4e-818054401ae1",
+  "providerState": {
+    "providerSessionId": "e04d0d26-39d8-441b-ac4e-818054401ae1"
+  },
+  "currentNote": ".claude/.agents/skills/huashu-nuwa/examples/andrej-karpathy-perspective/SKILL.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
