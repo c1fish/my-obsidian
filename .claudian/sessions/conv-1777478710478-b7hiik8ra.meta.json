@@ -1,14 +1,14 @@
 {
-  "id": "conv-1777477494927-r5f4194pc",
+  "id": "conv-1777478710478-b7hiik8ra",
   "providerId": "claude",
-  "title": "做一份杂志风 PPT",
+  "title": "安装这个skill：https://github",
   "titleGenerationStatus": "failed",
-  "createdAt": 1777477494927,
-  "updatedAt": 1777478323366,
-  "lastResponseAt": 1777478323366,
-  "sessionId": "9d44b6d4-a0bc-4a95-b92e-183cd970d656",
+  "createdAt": 1777478710478,
+  "updatedAt": 1777478815092,
+  "lastResponseAt": 1777478815092,
+  "sessionId": "0419e499-fb25-4263-8202-029bfa884b1d",
   "providerState": {
-    "providerSessionId": "9d44b6d4-a0bc-4a95-b92e-183cd970d656"
+    "providerSessionId": "0419e499-fb25-4263-8202-029bfa884b1d"
   },
   "usage": {
     "model": "haiku",

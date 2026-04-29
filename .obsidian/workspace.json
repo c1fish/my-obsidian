@@ -11,14 +11,12 @@
             "id": "c79edc101db34455",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "html-view",
               "state": {
-                "file": ".claude/.agents/skills/guizang-ppt-skill/SKILL.md",
-                "mode": "source",
-                "source": false
+                "file": "ppt/index.html"
               },
-              "icon": "lucide-file",
-              "title": "SKILL"
+              "icon": "code-glyph",
+              "title": "index"
             }
           }
         ]
@@ -217,8 +215,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "960a2188142fbc15",
+  "active": "c79edc101db34455",
   "lastOpenFiles": [
+    ".claude/.agents/skills/guizang-ppt-skill/SKILL.md",
+    ".claudian/sessions/conv-1777478710478-b7hiik8ra.meta.json",
+    ".claudian/sessions/conv-1777478601372-bsy3wfcak.meta.json",
+    "ppt/index.html",
+    "ppt",
     ".claudian/sessions/conv-1777477494927-r5f4194pc.meta.json",
     ".claude/.agents/skills/guizang-ppt-skill/README.md",
     ".claude/.agents/skills/huashu-nuwa/examples/andrej-karpathy-perspective/SKILL.md",
@@ -231,23 +234,17 @@
     ".claude/.agents/skills/guizang-ppt-skill/assets/template.html",
     ".claude/.agents/skills/guizang-ppt-skill/assets/motion.min.js",
     ".claude/.agents/skills/guizang-ppt-skill/assets",
-    ".claude/.agents/skills/guizang-ppt-skill/SKILL.md",
     ".claude/.agents/skills/guizang-ppt-skill",
-    ".claudian/sessions/conv-1777474806812-w3z6ifw6i.meta.json",
     ".claude/.agents/skills/main/skill to know me.md",
     ".claude/.agents/skills/zhanlincui-pptx/SKILL.md",
     ".claude/.agents/skills/zhanlincui-xlsx/SKILL.md",
     ".claude/.agents/skills/huashu-nuwa/SKILL.md",
     ".claude/.agents/skills/huashu-nuwa/README.md",
     "个人/绘画事记/学习时间线.md",
-    ".claude/.agents/skills/main",
     ".claude/.agents/skills/huashu-nuwa/examples/mrbeast-perspective/SKILL.md",
     ".claude/.agents/skills/philosophy/yangming-practice/SKILL.md",
     ".claude/.agents/skills/huashu-nuwa/examples/mrbeast-perspective/references/research/02-conversations.md",
-    ".claudian/sessions/conv-1777100318808-6zxa1kfnf.meta.json",
-    ".claudian/sessions/conv-1777100262901-aincntjlx.meta.json",
     "个人/关于我/2023年至今Notion飞书浮墨/驻足 17dbd0438f8680268be9c1afa8fb7a60.md",
-    ".claudian/sessions/conv-1777041169695-ft0euvlw7.meta.json",
     "学业/未命名.md",
     ".claude/.agents/skills/project-file-organizer.md",
     "2026-04-22.md",

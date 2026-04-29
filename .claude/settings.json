@@ -1,4 +1,5 @@
 {
+  "defaultShell": "powershell",
   "permissions": {
     "allow": [
       "Edit(/.claude/skills/claude-to-im/**)",
