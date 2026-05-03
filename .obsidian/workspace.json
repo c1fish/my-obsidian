@@ -217,6 +217,7 @@
   },
   "active": "960a2188142fbc15",
   "lastOpenFiles": [
+    ".claudian/sessions/conv-1777481818423-9fvlncqk4.meta.json",
     "生成Word.bat",
     "231301-3123002261-余卓成.py",
     "gen_docx.py",
@@ -227,7 +228,6 @@
     ".claude/.agents/skills/docx/scripts/office/validators/redlining.py",
     ".claude/.agents/skills/docx/scripts/office/validators/base.py",
     ".claude/.agents/skills/docx/scripts/office/validators",
-    ".claude/.agents/skills/docx/scripts/templates/people.xml",
     ".claude/.agents/skills/docx/SKILL.md",
     ".claude/.agents/skills/guizang-ppt-skill/SKILL.md",
     ".claude/.agents/skills/guizang-ppt-skill/README.md",

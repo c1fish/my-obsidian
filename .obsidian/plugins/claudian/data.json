@@ -3,9 +3,13 @@
     "openTabs": [
       {
         "tabId": "tab-1777481797952-vno2v1c",
+        "conversationId": "conv-1777481818423-9fvlncqk4"
+      },
+      {
+        "tabId": "tab-1777793212826-0u3rw2l",
         "conversationId": null
       }
     ],
-    "activeTabId": "tab-1777481797952-vno2v1c"
+    "activeTabId": "tab-1777793212826-0u3rw2l"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "id": "conv-1777481818423-9fvlncqk4",
+  "providerId": "claude",
+  "title": "帮我安装这个skillhttps://github",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1777481818424,
+  "updatedAt": 1777481912872,
+  "lastResponseAt": 1777481912872,
+  "sessionId": "b2b44481-4fd4-45a0-8524-d9add6c68066",
+  "providerState": {
+    "providerSessionId": "b2b44481-4fd4-45a0-8524-d9add6c68066"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
