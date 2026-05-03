@@ -18,8 +18,23 @@
               "icon": "code-glyph",
               "title": "index"
             }
+          },
+          {
+            "id": "e0ed807f71e20f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "推特画师运营规划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "推特画师运营规划"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,8 +230,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "960a2188142fbc15",
+  "active": "e0ed807f71e20f03",
   "lastOpenFiles": [
+    "短平快平台爆款规划.md",
+    "推特画师运营规划.md",
+    "ppt/index.html",
+    ".claudian/sessions/conv-1777793302704-f2fgoysse.meta.json",
     ".claudian/sessions/conv-1777481818423-9fvlncqk4.meta.json",
     "生成Word.bat",
     "231301-3123002261-余卓成.py",
@@ -225,9 +244,6 @@
     ".claude/.agents/skills/docx/scripts/office/validators/__init__.py",
     ".claude/.agents/skills/docx/scripts/office/validators/pptx.py",
     ".claude/.agents/skills/docx/scripts/office/validators/docx.py",
-    ".claude/.agents/skills/docx/scripts/office/validators/redlining.py",
-    ".claude/.agents/skills/docx/scripts/office/validators/base.py",
-    ".claude/.agents/skills/docx/scripts/office/validators",
     ".claude/.agents/skills/docx/SKILL.md",
     ".claude/.agents/skills/guizang-ppt-skill/SKILL.md",
     ".claude/.agents/skills/guizang-ppt-skill/README.md",
@@ -252,7 +268,6 @@
     "2026-04-22.md",
     "README.md",
     ".claude/.agents/skills/technology/claude-to-im-bridge/SKILL.md",
-    ".claude/.agents/skills/technology/claude-to-im-bridge/README.md",
     ".claude/.agents/skills/x-mastery-mentor/examples/routing-infographic.png",
     ".claude/.agents/skills/huashu-nuwa/wechat-qrcode.jpg",
     ".claude/.agents/skills/huashu-nuwa/assets/hero.gif",
