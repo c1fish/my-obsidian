@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778644302684-f2yglmqnu",
+  "providerId": "claude",
+  "title": "https://github",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1778644302684,
+  "updatedAt": 1778644403958,
+  "lastResponseAt": 1778644403958,
+  "sessionId": "76b56324-c27c-417e-958b-a953573d2ec7",
+  "providerState": {
+    "providerSessionId": "76b56324-c27c-417e-958b-a953573d2ec7"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
