@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5106964111328
   },
   "right": {
     "id": "3cc11174a6c06abf",
@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1676.5
+    "width": 512.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,6 +215,7 @@
   },
   "active": "725928337744e779",
   "lastOpenFiles": [
+    ".claudian/sessions/conv-1778647765894-wxoj5z424.meta.json",
     "短平快平台爆款规划.md",
     ".claudian/sessions/conv-1778644302684-f2yglmqnu.meta.json",
     ".claudian/sessions/conv-1778603834901-jsexbxui1.meta.json",
