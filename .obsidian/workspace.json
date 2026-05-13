@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7269dddf2c94cdcb",
+        "id": "0d70c56219553abe",
         "type": "tabs",
         "children": [
           {
-            "id": "6381cb869c4b0bed",
+            "id": "725928337744e779",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "短平快平台爆款规划.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "短平快平台爆款规划"
+              "title": "新标签页"
             }
           }
         ]
@@ -200,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 1676.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,12 +213,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "960a2188142fbc15",
+  "active": "725928337744e779",
   "lastOpenFiles": [
+    "短平快平台爆款规划.md",
     ".claudian/sessions/conv-1778644302684-f2yglmqnu.meta.json",
     ".claudian/sessions/conv-1778603834901-jsexbxui1.meta.json",
     "推特画师运营规划.md",
-    "短平快平台爆款规划.md",
     ".claude/.agents/skills/x-mastery-mentor/SKILL.md",
     "ppt/index.html",
     ".claudian/sessions/conv-1777793302704-f2fgoysse.meta.json",
@@ -232,7 +228,6 @@
     "gen_docx.py",
     ".claudian/sessions/conv-1777480188018-yvyexxx0u.meta.json",
     ".claude/.agents/skills/docx/scripts/office/validators/__init__.py",
-    ".claude/.agents/skills/docx/scripts/office/validators/pptx.py",
     ".claude/.agents/skills/docx/SKILL.md",
     ".claude/.agents/skills/guizang-ppt-skill/SKILL.md",
     ".claude/.agents/skills/guizang-ppt-skill/README.md",
